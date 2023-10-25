@@ -1,6 +1,8 @@
 # Post-Quantum-Encrypted-Signal-Security-Software-with-Bare-Metal-Credential-Authentification
 The Encrypted Signal Security Software (ESSS) with Bare Metal Credential Authentication is both software and hardware-level safeguards against a broad spectrum of security threats.
 
+# NOTE: Everything is Prototyped locally, specifically so it an be transferred to AWS, other cloud platforms... Although bare metal is more secure... but can be a lot more complex.
+
 # Overview
 The Encrypted Signal Security Software (ESSS) with Bare Metal Credential Authentication is a cutting-edge solution designed to secure radio-frequency (RF) signal communications in a variety of applications. This robust system integrates advanced cryptographic techniques with hardware-level authentication to ensure the highest level of security. Its modular architecture allows for scalability and adaptability, providing both software and hardware-level safeguards against a broad spectrum of security threats.
 
